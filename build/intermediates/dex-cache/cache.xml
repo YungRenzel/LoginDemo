@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/var/AndroidStudioProjects/LaNota/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="71f03fd854b06abf6b6b1bce535cc9f280bf2e7d">
+        <dex dex="/var/AndroidStudioProjects/LaNota/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_e2c94b19c377c76b75d4e9425015172935e2986e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/var/AndroidStudioProjects/LaNota/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="510aa6efc159983dfbffa676a0dae37568c0a46f">
+        <dex dex="/var/AndroidStudioProjects/LaNota/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_3f2092fb4aa482a4e85cb9b80e1b224109bf229c/classes.dex" />
+    </item>
+
+</items>
